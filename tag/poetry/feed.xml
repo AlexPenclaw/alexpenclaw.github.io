@@ -2,21 +2,21 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/jasper2/tag/poetry/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/jasper2/" rel="alternate" type="text/html" />
-  <updated>2020-11-19T17:07:36-05:00</updated>
-  <id>http://localhost:4000/jasper2/tag/poetry/feed.xml</id>
+  <link href="http://localhost:4000/tag/poetry/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-11-19T18:38:55-05:00</updated>
+  <id>http://localhost:4000/tag/poetry/feed.xml</id>
 
   
   
   
 
   
-    <title type="html">Ghost | </title>
+    <title type="html">The Penclaw Press | </title>
   
 
   
-    <subtitle>The professional publishing platform</subtitle>
+    <subtitle>Poetry, Fiction, Magick and Musings</subtitle>
   
 
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Poem: Busted Seams</title>
-      <link href="http://localhost:4000/jasper2/busted-seams" rel="alternate" type="text/html" title="Poem: Busted Seams" />
+      <link href="http://localhost:4000/busted-seams" rel="alternate" type="text/html" title="Poem: Busted Seams" />
       <published>2020-08-12T20:58:18-04:00</published>
       <updated>2020-08-12T20:58:18-04:00</updated>
-      <id>http://localhost:4000/jasper2/busted-seams</id>
-      <content type="html" xml:base="http://localhost:4000/jasper2/busted-seams">&lt;p&gt;I’m brimming and bursting,&lt;br /&gt;
+      <id>http://localhost:4000/busted-seams</id>
+      <content type="html" xml:base="http://localhost:4000/busted-seams">&lt;p&gt;I’m brimming and bursting,&lt;br /&gt;
 my seams are busted.&lt;br /&gt;
 My righteous sense of reality&lt;br /&gt;
 is rusted.&lt;br /&gt;
@@ -103,11 +103,11 @@ and float above on feminine wings.&lt;/p&gt;</content>
   
     <entry>
       <title type="html">Poem: A Knight Of Verse</title>
-      <link href="http://localhost:4000/jasper2/poem-a-knight-of-verse" rel="alternate" type="text/html" title="Poem: A Knight Of Verse" />
+      <link href="http://localhost:4000/poem-a-knight-of-verse" rel="alternate" type="text/html" title="Poem: A Knight Of Verse" />
       <published>2020-08-12T20:16:26-04:00</published>
       <updated>2020-08-12T20:16:26-04:00</updated>
-      <id>http://localhost:4000/jasper2/poem-a-knight-of-verse</id>
-      <content type="html" xml:base="http://localhost:4000/jasper2/poem-a-knight-of-verse">&lt;p&gt;The pen and the sword are weapons both,&lt;br /&gt;
+      <id>http://localhost:4000/poem-a-knight-of-verse</id>
+      <content type="html" xml:base="http://localhost:4000/poem-a-knight-of-verse">&lt;p&gt;The pen and the sword are weapons both,&lt;br /&gt;
 and whichever I wield, let thie be my oath:&lt;/p&gt;
 
 &lt;p&gt;To champion causes that are righteous and just,&lt;br /&gt;
@@ -144,11 +144,11 @@ and it is these blessed feelings that fuel the fight.&lt;/p&gt;</content>
   
     <entry>
       <title type="html">Poem: Dragon of Avalon</title>
-      <link href="http://localhost:4000/jasper2/dragon-of-avalon" rel="alternate" type="text/html" title="Poem: Dragon of Avalon" />
+      <link href="http://localhost:4000/dragon-of-avalon" rel="alternate" type="text/html" title="Poem: Dragon of Avalon" />
       <published>2020-08-12T19:49:14-04:00</published>
       <updated>2020-08-12T19:49:14-04:00</updated>
-      <id>http://localhost:4000/jasper2/dragon-of-avalon</id>
-      <content type="html" xml:base="http://localhost:4000/jasper2/dragon-of-avalon">&lt;p&gt;Dragon,&lt;br /&gt;
+      <id>http://localhost:4000/dragon-of-avalon</id>
+      <content type="html" xml:base="http://localhost:4000/dragon-of-avalon">&lt;p&gt;Dragon,&lt;br /&gt;
 fire-breating,&lt;br /&gt;
 rage-seething&lt;br /&gt;
 protector.&lt;/p&gt;
@@ -191,11 +191,11 @@ by dragons.&lt;/p&gt;</content>
   
     <entry>
       <title type="html">Poem: Lonely Little Robot</title>
-      <link href="http://localhost:4000/jasper2/lonely-little-robot" rel="alternate" type="text/html" title="Poem: Lonely Little Robot" />
+      <link href="http://localhost:4000/lonely-little-robot" rel="alternate" type="text/html" title="Poem: Lonely Little Robot" />
       <published>2020-08-08T22:13:18-04:00</published>
       <updated>2020-08-08T22:13:18-04:00</updated>
-      <id>http://localhost:4000/jasper2/lonely-little-robot</id>
-      <content type="html" xml:base="http://localhost:4000/jasper2/lonely-little-robot">&lt;p&gt;Little robot, rusting alone,&lt;br /&gt;
+      <id>http://localhost:4000/lonely-little-robot</id>
+      <content type="html" xml:base="http://localhost:4000/lonely-little-robot">&lt;p&gt;Little robot, rusting alone,&lt;br /&gt;
 resting on the grass,&lt;br /&gt;
 how corroded your chromium has become,&lt;br /&gt;
 how green your copper plating.&lt;/p&gt;
@@ -237,15 +237,12 @@ and know kindness, compassion and love.&lt;/p&gt;</content>
     </entry>
   
     <entry>
-      <title type="html">Members Only Poem: The Wall Bisecting</title>
-      <link href="http://localhost:4000/jasper2/members-only-poem-the-wall-bisecting" rel="alternate" type="text/html" title="Members Only Poem: The Wall Bisecting" />
+      <title type="html">Poem: The Wall Bisecting</title>
+      <link href="http://localhost:4000/members-only-poem-the-wall-bisecting" rel="alternate" type="text/html" title="Poem: The Wall Bisecting" />
       <published>2020-08-02T20:43:56-04:00</published>
       <updated>2020-08-02T20:43:56-04:00</updated>
-      <id>http://localhost:4000/jasper2/members-only-poem-the-wall-bisecting</id>
-      <content type="html" xml:base="http://localhost:4000/jasper2/members-only-poem-the-wall-bisecting">&lt;p&gt;&lt;em&gt;This is my first members-only post to thank you for subscribing to this blog. I really appreciate your support. You’re helping me make a living out of my passion, and I can’t thank you enough for that. Enjoy the poem.&lt;/em&gt;&lt;/p&gt;
-
-&lt;!--kg-card-begin: markdown--&gt;
-&lt;h2 id=&quot;the-wall-bisecting&quot;&gt;The Wall, Bisecting&lt;/h2&gt;
+      <id>http://localhost:4000/members-only-poem-the-wall-bisecting</id>
+      <content type="html" xml:base="http://localhost:4000/members-only-poem-the-wall-bisecting">&lt;h2 id=&quot;the-wall-bisecting&quot;&gt;The Wall, Bisecting&lt;/h2&gt;
 
 &lt;p&gt;Someone has been building a wall&lt;br /&gt;
 down the center of the city. Pulleys&lt;br /&gt;
@@ -296,7 +293,7 @@ stopped.&lt;/p&gt;
       
 
       
-        <summary type="html">This is my first members-only post to thank you for subscribing to this blog. I really appreciate your support. You’re helping me make a living out of my passion, and I can’t thank you enough for that. Enjoy the poem.</summary>
+        <summary type="html">The Wall, Bisecting</summary>
       
 
       
@@ -305,11 +302,11 @@ stopped.&lt;/p&gt;
   
     <entry>
       <title type="html">A Smattering Of Poetry</title>
-      <link href="http://localhost:4000/jasper2/a-smattering-of-poetry" rel="alternate" type="text/html" title="A Smattering Of Poetry" />
+      <link href="http://localhost:4000/a-smattering-of-poetry" rel="alternate" type="text/html" title="A Smattering Of Poetry" />
       <published>2020-08-02T19:54:02-04:00</published>
       <updated>2020-08-02T19:54:02-04:00</updated>
-      <id>http://localhost:4000/jasper2/a-smattering-of-poetry</id>
-      <content type="html" xml:base="http://localhost:4000/jasper2/a-smattering-of-poetry">&lt;p&gt;Poetry has been something that I have been interested in ever since school. I love reading it, and I love to write it even more. My style varies wildly. Sometimes I like to use a more formal format like a villanelle, other times I use free verse. Recently, I have experimented with adding alliteration for my amusement. Poetry lets me play with the sound and music of the world of words. Its a wonderful, beautiful experiment in twisting the threads of language into a long, beautiful cord. And it can be an incredibly cathartic thing as well, allowing me to express feelings that would otherwise be hard to get across.&lt;/p&gt;
+      <id>http://localhost:4000/a-smattering-of-poetry</id>
+      <content type="html" xml:base="http://localhost:4000/a-smattering-of-poetry">&lt;p&gt;Poetry has been something that I have been interested in ever since school. I love reading it, and I love to write it even more. My style varies wildly. Sometimes I like to use a more formal format like a villanelle, other times I use free verse. Recently, I have experimented with adding alliteration for my amusement. Poetry lets me play with the sound and music of the world of words. Its a wonderful, beautiful experiment in twisting the threads of language into a long, beautiful cord. And it can be an incredibly cathartic thing as well, allowing me to express feelings that would otherwise be hard to get across.&lt;/p&gt;
 
 &lt;p&gt;Here are a few poems I recently sent in for a fellowship prize. I didn’t get chosen as a finalist, but I stand by the poems as works of art and a good example of the kind of writing I can do when I put my heart into my words.&lt;/p&gt;
 
