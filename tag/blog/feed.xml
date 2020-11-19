@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/blog/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-11-19T18:38:55-05:00</updated>
-  <id>http://localhost:4000/tag/blog/feed.xml</id>
+  <link href="/tag/blog/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-11-19T18:48:26-05:00</updated>
+  <id>/tag/blog/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Romance on the Asexual Spectrum</title>
-      <link href="http://localhost:4000/romance-on-the-asexual-spectrum" rel="alternate" type="text/html" title="Romance on the Asexual Spectrum" />
+      <link href="/romance-on-the-asexual-spectrum" rel="alternate" type="text/html" title="Romance on the Asexual Spectrum" />
       <published>2020-08-08T17:39:37-04:00</published>
       <updated>2020-08-08T17:39:37-04:00</updated>
-      <id>http://localhost:4000/romance-on-the-asexual-spectrum</id>
-      <content type="html" xml:base="http://localhost:4000/romance-on-the-asexual-spectrum">&lt;p&gt;I broke up with my first boyfriend because he wanted to have sex eventually and I didn’t. I was definitely attracted to him. I loved kissing him, holding him, dancing with him, cuddling him. I just didn’t want to fuck him. I enjoyed, to a certain extent, the dirty talk we did over text messages and the like. But when things started to get too heavy, I got uncomfortable real quick, and was unable to reciprocate. I had considered the fact that I was on the asexual spectrum before, but I didn’t think I was on it because of the strong feelings I had for my boyfriend. I had read about the differences between romantic and sexual attraction before, but I had a hard time telling the two apart. I don’t have that trouble anymore.&lt;/p&gt;
+      <id>/romance-on-the-asexual-spectrum</id>
+      <content type="html" xml:base="/romance-on-the-asexual-spectrum">&lt;p&gt;I broke up with my first boyfriend because he wanted to have sex eventually and I didn’t. I was definitely attracted to him. I loved kissing him, holding him, dancing with him, cuddling him. I just didn’t want to fuck him. I enjoyed, to a certain extent, the dirty talk we did over text messages and the like. But when things started to get too heavy, I got uncomfortable real quick, and was unable to reciprocate. I had considered the fact that I was on the asexual spectrum before, but I didn’t think I was on it because of the strong feelings I had for my boyfriend. I had read about the differences between romantic and sexual attraction before, but I had a hard time telling the two apart. I don’t have that trouble anymore.&lt;/p&gt;
 
 &lt;p&gt;I’m in a long distance relationship currently. Me and my partner message each other each day to check in and see how the other is doing. We talk about whats going on in our lives and offer comfort to one another when things get tough. We send each other stickers and gifs of couples kissing and cuddling. We talk about how much we miss each other, though we’ve yet to meet in person, and how we would love to visit each other when it gets safer to travel. We are both on the asexual spectrum, and very much in love.&lt;/p&gt;
 
@@ -93,11 +93,11 @@
   
     <entry>
       <title type="html">A Science-Fiction Writer’s Argument Against Futuristic Meritocracy</title>
-      <link href="http://localhost:4000/a-science-fiction-writers-argument-against-futuristic-meritocracy" rel="alternate" type="text/html" title="A Science-Fiction Writer's Argument Against Futuristic Meritocracy" />
+      <link href="/a-science-fiction-writers-argument-against-futuristic-meritocracy" rel="alternate" type="text/html" title="A Science-Fiction Writer's Argument Against Futuristic Meritocracy" />
       <published>2020-08-01T22:22:06-04:00</published>
       <updated>2020-08-01T22:22:06-04:00</updated>
-      <id>http://localhost:4000/a-science-fiction-writers-argument-against-futuristic-meritocracy</id>
-      <content type="html" xml:base="http://localhost:4000/a-science-fiction-writers-argument-against-futuristic-meritocracy">&lt;p&gt;Whenever I see someone ask the question of “what will we use as money in the future,” I’m always tempted to respond “who says we’ll even have money?” Its not inconceivable to me that the world we live in will change drastically in a century’s time or even less. We may think that money based economies will still exist, but the truth is that we have no way of knowing. Take someone from the early 1900s and show them the life we are living now and it would be completely incomprehensible to them.&lt;/p&gt;
+      <id>/a-science-fiction-writers-argument-against-futuristic-meritocracy</id>
+      <content type="html" xml:base="/a-science-fiction-writers-argument-against-futuristic-meritocracy">&lt;p&gt;Whenever I see someone ask the question of “what will we use as money in the future,” I’m always tempted to respond “who says we’ll even have money?” Its not inconceivable to me that the world we live in will change drastically in a century’s time or even less. We may think that money based economies will still exist, but the truth is that we have no way of knowing. Take someone from the early 1900s and show them the life we are living now and it would be completely incomprehensible to them.&lt;/p&gt;
 
 &lt;p&gt;Science fiction writers know this quite well, and love to experiment with alternative economies and futuristic ways of ending the scarcity of resources. However, a good number of them never think to question the fundamental necessity of things like a meritocratic society. They often magic scarcity away bit leave much of how society is today intact, as though once peoples basic needs are met there will still be  need to restrict access to “luxuries.” The reputation economy trope is perhaps the biggest offender here, exchanging physical capital for social capital, slapping a utopian setting on top of it, and calling it “the solution to capitalism.”&lt;/p&gt;
 
@@ -137,11 +137,11 @@
   
     <entry>
       <title type="html">A DnD Character Appreciation Post for Vix, The Badass Anime Furry</title>
-      <link href="http://localhost:4000/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry" rel="alternate" type="text/html" title="A DnD Character Appreciation Post for Vix, The Badass Anime Furry" />
+      <link href="/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry" rel="alternate" type="text/html" title="A DnD Character Appreciation Post for Vix, The Badass Anime Furry" />
       <published>2020-07-30T20:12:10-04:00</published>
       <updated>2020-07-30T20:12:10-04:00</updated>
-      <id>http://localhost:4000/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry</id>
-      <content type="html" xml:base="http://localhost:4000/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry">&lt;p&gt;I’ve had a lot of DnD characters over the years. Some of them have been more self-indulgent than others. Some of them have been simple experiments with the rules, or with classes and races that I haven’t played before. But my current character is probably one of the most self-indulgent things I have ever made. Everyone, meet Vix, the fox-shifter spore druid.&lt;/p&gt;
+      <id>/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry</id>
+      <content type="html" xml:base="/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry">&lt;p&gt;I’ve had a lot of DnD characters over the years. Some of them have been more self-indulgent than others. Some of them have been simple experiments with the rules, or with classes and races that I haven’t played before. But my current character is probably one of the most self-indulgent things I have ever made. Everyone, meet Vix, the fox-shifter spore druid.&lt;/p&gt;
 
 &lt;p&gt;Vix is a shifter who lives on the continent of Thoria. She is a Druid by training, and until very recently lived with her enclave, the Enclave of the Mycorex, in a secluded grove in the middle of an untamed wilderness bustling with magical creatures. She is able to morph from her standard anime-girl form to a full on anthropomorphic fox, as well as take on the forms of various other animals that she’s seen. She’s also a spore druid, and is constantly surrounded by fungal spores which she can “activate” in order to gain a boost to her HP and deal extra damage in melee. Spore druids are also talented at necromancy, and Vix is only one level away from raising the dead. In short, she’s a goth furry anime girl and basically the person I wanted to be for a lot of my college years.&lt;/p&gt;
 

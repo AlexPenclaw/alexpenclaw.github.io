@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/gender/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-11-19T18:38:55-05:00</updated>
-  <id>http://localhost:4000/tag/gender/feed.xml</id>
+  <link href="/tag/gender/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-11-19T18:48:26-05:00</updated>
+  <id>/tag/gender/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Poem: Busted Seams</title>
-      <link href="http://localhost:4000/busted-seams" rel="alternate" type="text/html" title="Poem: Busted Seams" />
+      <link href="/busted-seams" rel="alternate" type="text/html" title="Poem: Busted Seams" />
       <published>2020-08-12T20:58:18-04:00</published>
       <updated>2020-08-12T20:58:18-04:00</updated>
-      <id>http://localhost:4000/busted-seams</id>
-      <content type="html" xml:base="http://localhost:4000/busted-seams">&lt;p&gt;I’m brimming and bursting,&lt;br /&gt;
+      <id>/busted-seams</id>
+      <content type="html" xml:base="/busted-seams">&lt;p&gt;I’m brimming and bursting,&lt;br /&gt;
 my seams are busted.&lt;br /&gt;
 My righteous sense of reality&lt;br /&gt;
 is rusted.&lt;br /&gt;

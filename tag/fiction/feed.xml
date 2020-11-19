@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/fiction/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-11-19T18:38:55-05:00</updated>
-  <id>http://localhost:4000/tag/fiction/feed.xml</id>
+  <link href="/tag/fiction/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-11-19T18:48:26-05:00</updated>
+  <id>/tag/fiction/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">The Occult Library Co-Op</title>
-      <link href="http://localhost:4000/the-occult-library-co-op" rel="alternate" type="text/html" title="The Occult Library Co-Op" />
+      <link href="/the-occult-library-co-op" rel="alternate" type="text/html" title="The Occult Library Co-Op" />
       <published>2020-08-13T20:00:37-04:00</published>
       <updated>2020-08-13T20:00:37-04:00</updated>
-      <id>http://localhost:4000/the-occult-library-co-op</id>
-      <content type="html" xml:base="http://localhost:4000/the-occult-library-co-op">&lt;p&gt;“I don’t get it,” said Arkham, as they weaved their way through the shelves. “Libraries don’t usually restrict access. ‘Information belongs to the public’ and all that, right?”&lt;/p&gt;
+      <id>/the-occult-library-co-op</id>
+      <content type="html" xml:base="/the-occult-library-co-op">&lt;p&gt;“I don’t get it,” said Arkham, as they weaved their way through the shelves. “Libraries don’t usually restrict access. ‘Information belongs to the public’ and all that, right?”&lt;/p&gt;
 
 &lt;p&gt;Serafin just smiled. “For ordinary libraries, this is true. But we are no ordinary library.” She ran her fingers over a row of books. “These books must be treated with care, and only used by responsible people. The knowledge they contain is quite dangerous. Hence why members must be approved beforehand.”&lt;/p&gt;
 

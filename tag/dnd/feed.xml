@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/dnd/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-11-19T18:38:55-05:00</updated>
-  <id>http://localhost:4000/tag/dnd/feed.xml</id>
+  <link href="/tag/dnd/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-11-19T18:48:26-05:00</updated>
+  <id>/tag/dnd/feed.xml</id>
 
   
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">A DnD Character Appreciation Post for Vix, The Badass Anime Furry</title>
-      <link href="http://localhost:4000/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry" rel="alternate" type="text/html" title="A DnD Character Appreciation Post for Vix, The Badass Anime Furry" />
+      <link href="/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry" rel="alternate" type="text/html" title="A DnD Character Appreciation Post for Vix, The Badass Anime Furry" />
       <published>2020-07-30T20:12:10-04:00</published>
       <updated>2020-07-30T20:12:10-04:00</updated>
-      <id>http://localhost:4000/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry</id>
-      <content type="html" xml:base="http://localhost:4000/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry">&lt;p&gt;I’ve had a lot of DnD characters over the years. Some of them have been more self-indulgent than others. Some of them have been simple experiments with the rules, or with classes and races that I haven’t played before. But my current character is probably one of the most self-indulgent things I have ever made. Everyone, meet Vix, the fox-shifter spore druid.&lt;/p&gt;
+      <id>/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry</id>
+      <content type="html" xml:base="/a-dnd-character-appreciation-post-for-vix-the-badass-anime-furry">&lt;p&gt;I’ve had a lot of DnD characters over the years. Some of them have been more self-indulgent than others. Some of them have been simple experiments with the rules, or with classes and races that I haven’t played before. But my current character is probably one of the most self-indulgent things I have ever made. Everyone, meet Vix, the fox-shifter spore druid.&lt;/p&gt;
 
 &lt;p&gt;Vix is a shifter who lives on the continent of Thoria. She is a Druid by training, and until very recently lived with her enclave, the Enclave of the Mycorex, in a secluded grove in the middle of an untamed wilderness bustling with magical creatures. She is able to morph from her standard anime-girl form to a full on anthropomorphic fox, as well as take on the forms of various other animals that she’s seen. She’s also a spore druid, and is constantly surrounded by fungal spores which she can “activate” in order to gain a boost to her HP and deal extra damage in melee. Spore druids are also talented at necromancy, and Vix is only one level away from raising the dead. In short, she’s a goth furry anime girl and basically the person I wanted to be for a lot of my college years.&lt;/p&gt;
 
